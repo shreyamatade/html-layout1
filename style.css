@@ -1,0 +1,54 @@
+#one{
+  background-color: cyan;
+  border:3px solid black;
+  width:100%;
+} 
+#two{
+  background-color: rgb(235, 183, 88);
+  border:3px solid black;
+  width:100%;
+}
+
+
+
+.container1{
+  background-color: chartreuse;
+  border:3px solid black;
+  height: 300px;
+  width:50%;
+} 
+.container2{ 
+  margin-top: -306px;
+  margin-left: 50%;
+  background-color: rgb(230, 245, 99);
+  border:3px solid black;
+  height:300px;
+  width:50%;
+
+}  
+.container3{ 
+  margin-top: auto;
+  
+  background-color: rgb(243, 185, 209);
+  border:3px solid black;
+  height:300px;
+  width:50%;
+
+} 
+.container4{ 
+  margin-top: -306px;
+  margin-left: 50%;
+  
+  background-color: rgb(218, 245, 243);
+  border:3px solid black;
+  height:300px;
+  width:50%;
+
+} 
+
+.footer{
+  background-color: lightcoral;
+  border:3px solid black;
+  width:100%;
+  margin-top: 20px;
+}
